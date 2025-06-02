@@ -21,11 +21,11 @@ Each lab lives in its own folder and follows this structure:
 | File / Folder                             | Purpose                                             |
 |-------------------------------------------|-----------------------------------------------------|
 | `exposed-admin-portal/`                   | Top-level folder for the specific lab               |
-| ├── `red-setup.md`                        | Vulnerability setup and attacker walkthrough        |
-| ├── `blue-response.md`                    | Detection logic, mitigation steps, or hardening     |
-| ├── `logs/`                               | Captured telemetry (Sysmon, Wazuh, auditd, etc.)    |
-| ├── `tools-used.md`                       | Tools, payloads, and scanning methods used          |
-| └── `summary.md`                          | Lessons learned and MITRE ATT&CK technique mapping  |
+| `red-setup.md`                            | Vulnerability setup and attacker walkthrough        |
+| `blue-response.md`                        | Detection logic, mitigation steps, or hardening     |
+| `logs/`                                   | Captured telemetry (Sysmon, Wazuh, auditd, etc.)    |
+| `tools-used.md`                           | Tools, payloads, and scanning methods used          |
+| `summary.md`                              | Lessons learned and MITRE ATT&CK technique mapping  |
 
 ## 📘 Labs Included
 
